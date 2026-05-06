@@ -19,7 +19,7 @@
 
 ## Featured Projects
 
-- 👆 **[TouchShell](#) ([repo](https://github.com/keithvassallomt/touchshell)) - GNOME extension for improved touchscreen functionality.
+- 👆 **[TouchShell](#)** ([repo](https://github.com/keithvassallomt/touchshell)) - GNOME extension for improved touchscreen functionality.
 - 🧠 **[Ari](#)** ([repo](https://github.com/ari-digital-assistant/)) - An AI smart assistant for Android and Linux with on-device/cloud intelligence.
 - 📂 **[odrive-linux](https://github.com/keithvassallomt/odrive-linux)** - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
 - 💬 **[Loft](https://loft.chat)** ([repo](https://github.com/keithvassallomt/loft)) — Desktop integration for WhatsApp, Messenger, Slack & Telegram on Linux — voice/video calling, tray icons, badge counts
