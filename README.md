@@ -19,20 +19,20 @@
 
 ## Featured Projects
 
-- 🌘 **[Smart DnD](#)** ([repo](https://github.com/keithvassallomt/smart-dnd)) - GNOME extension for scheduling Do not Disturb mode via fixed schedule or from calendar events.
+- 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd)) - GNOME extension for scheduling Do not Disturb mode via fixed schedule or from calendar events.
 - 👆 **[TouchShell](https://touchshell.com)** ([repo](https://github.com/keithvassallomt/touchshell)) - GNOME extension for improved touchscreen functionality.
 - 🧠 **[Ari](#)** ([repo](https://github.com/ari-digital-assistant/)) - An AI smart assistant for Android and Linux with on-device/cloud intelligence.
-- 📂 **[odrive-linux](https://github.com/keithvassallomt/odrive-linux)** - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
-- 💬 **[Loft](https://loft.chat)** ([repo](https://github.com/keithvassallomt/loft)) — Desktop integration for WhatsApp, Messenger, Slack & Telegram on Linux — voice/video calling, tray icons, badge counts
-- 📦 **[FriendlyHub](https://friendlyhub.org)** ([repo](https://github.com/friendlyhub/friendlyhub)) — Flatpak app store & repository manager for Linux
-- 🤝 **[Friendly Manifesto](https://friendlymanifesto.org)** ([repo](https://github.com/keithvassallomt/friendly-manifesto)) — A set of principles for building friendly open-source communities
-- 🍎 **[iCloudBridge](https://icloudbridge.app)** ([repo](https://github.com/keithvassallomt/icloudbridge)) — Sync Apple Notes, Reminders, Photos & Passwords with Nextcloud, Bitwarden & more
-- 📋 **[ClusterCut](https://clustercut.app)** ([repo](https://github.com/keithvassallomt/clustercut)) — Cross-device clipboard sync without the cloud — Windows, macOS & Linux on your local network
-- 🔤 **[spelling.mt](https://spelling.mt)** ([repo](https://github.com/keithvassallomt/spelling.mt)) — Online Maltese spell checker
-- 🔔 **[Status Tray](https://statustray.com)** ([repo](https://github.com/keithvassallomt/status-tray)) — Better system tray icons for GNOME with per-app customisation
-- 🖥️ **[WebFruitOS](https://github.com/keithvassallomt/WebFruitOS)** — Responsive website template mimicking a certain fruit-themed OS
-- 📖 **[WordLeech](https://github.com/keithvassallomt/wordleech)** — Extract words from documents to grow the Maltese spell checker dictionary
-- 🇲🇹 **[Maltese Spelling Dictionary](https://spelling.mt/docs.html)** ([repo](https://github.com/keithvassallomt/maltese_spelling_dict)) — Open-source spell checking for the Maltese language across all major platforms
+- 📂 **[odrive-linux](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/odrive-linux)) - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
+- 💬 **[Loft](https://loft.chat)** ([repo](https://github.com/keithvassallomt/loft)) - Desktop integration for WhatsApp, Messenger, Slack & Telegram on Linux — voice/video calling, tray icons, badge counts
+- 📦 **[FriendlyHub](https://friendlyhub.org)** ([repo](https://github.com/friendlyhub/friendlyhub)) - Flatpak app store & repository manager for Linux
+- 🤝 **[Friendly Manifesto](https://friendlymanifesto.org)** ([repo](https://github.com/keithvassallomt/friendly-manifesto)) - A set of principles for building friendly open-source communities
+- 🍎 **[iCloudBridge](https://icloudbridge.app)** ([repo](https://github.com/keithvassallomt/icloudbridge)) - Sync Apple Notes, Reminders, Photos & Passwords with Nextcloud, Bitwarden & more
+- 📋 **[ClusterCut](https://clustercut.app)** ([repo](https://github.com/keithvassallomt/clustercut)) - Cross-device clipboard sync without the cloud — Windows, macOS & Linux on your local network
+- 🔤 **[spelling.mt](https://spelling.mt)** ([repo](https://github.com/keithvassallomt/spelling.mt)) - Online Maltese spell checker
+- 🔔 **[Status Tray](https://statustray.com)** ([repo](https://github.com/keithvassallomt/status-tray)) - Better system tray icons for GNOME with per-app customisation
+- 🖥️ **[WebFruitOS](https://keithvassallo.com/projects/webfruitos)** ([repo](https://github.com/keithvassallomt/WebFruitOS)) - Responsive website template mimicking a certain fruit-themed OS
+- 📖 **[WordLeech](https://keithvassallo.com/projects/wordleech)** ([repo](https://github.com/keithvassallomt/wordleech)) - Extract words from documents to grow the Maltese spell checker dictionary
+- 🇲🇹 **[Maltese Spelling Dictionary](https://spelling.mt/docs.html)** ([repo](https://github.com/keithvassallomt/maltese_spelling_dict)) - Open-source spell checking for the Maltese language across all major platforms
 
 ## GitHub Activity
 
