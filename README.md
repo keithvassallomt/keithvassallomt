@@ -13,7 +13,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-> I build things, break things, and teach others to do the same. 20+ years of code, classrooms, and open source — always with a laugh.
+> I build things, break things, and teach others to do the same. 20+ years of code, classrooms, and open source, and always with a laugh.
+
+🌐 [keithvassallo.com](https://keithvassallo.com)
 
 **Head of Technology @ [ICE Campus](https://icecampus.com)** · AWS Authorised Instructor · Published Researcher
 
