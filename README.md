@@ -21,9 +21,11 @@
 
 ## Featured Projects
 
-- 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd)) - GNOME extension for scheduling Do not Disturb mode via fixed schedule or from calendar events.
+- 🗄️ **[Backtrack](#)** ([repo](https://github.com/keithvassallomt/backtrack)) - Linux backup utility based on Borg backup. Provides Time Machine-like functionality for Linux desktops.
+- 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd-linux)) - Utility for scheduling Do not Disturb mode via fixed schedule or from calendar events. Supports various calendar backends and Linux desktops.
+- 🌘 **[Smart DnD for GNOME](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd)) - GNOME extension for scheduling Do not Disturb mode via fixed schedule or from calendar events.
 - 👆 **[TouchShell](https://touchshell.com)** ([repo](https://github.com/keithvassallomt/touchshell)) - GNOME extension for improved touchscreen functionality.
-- 🧠 **[Ari](#)** ([repo](https://github.com/ari-digital-assistant/)) - An AI smart assistant for Android and Linux with on-device/cloud intelligence.
+- 🧠 **[Ari](https://heyari.dev)** ([repo](https://github.com/ari-digital-assistant/)) - An AI smart assistant for Android and Linux with on-device/cloud intelligence.
 - 📂 **[odrive-linux](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/odrive-linux)) - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
 - 💬 **[Loft](https://loft.chat)** ([repo](https://github.com/keithvassallomt/loft)) - Desktop integration for WhatsApp, Messenger, Slack & Telegram on Linux — voice/video calling, tray icons, badge counts
 - 📦 **[FriendlyHub](https://friendlyhub.org)** ([repo](https://github.com/friendlyhub/friendlyhub)) - Flatpak app store & repository manager for Linux
