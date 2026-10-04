@@ -21,12 +21,13 @@
 
 ## Featured Projects
 
+- 🖼️ **[NC Media Provider](#)** ([repo](https://github.com/keithvassallomt/nc-media-provider)) - Android app for using NextCloud photos/videos in the system photo picker, or as a keyboard.  
 - 🗄️ **[Backtrack](#)** ([repo](https://github.com/keithvassallomt/backtrack)) - Linux backup utility based on Borg backup. Provides Time Machine-like functionality for Linux desktops.
-- 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd-linux)) - Utility for scheduling Do not Disturb mode via fixed schedule or from calendar events. Supports various calendar backends and Linux desktops.
+- 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd-linux)** ([repo](https://github.com/keithvassallomt/smart-dnd-linux)) - Utility for scheduling Do not Disturb mode via fixed schedule or from calendar events. Supports various calendar backends and Linux desktops.
 - 🌘 **[Smart DnD for GNOME](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/smart-dnd)) - GNOME extension for scheduling Do not Disturb mode via fixed schedule or from calendar events.
 - 👆 **[TouchShell](https://touchshell.com)** ([repo](https://github.com/keithvassallomt/touchshell)) - GNOME extension for improved touchscreen functionality.
 - 🧠 **[Ari](https://heyari.dev)** ([repo](https://github.com/ari-digital-assistant/)) - An AI smart assistant for Android and Linux with on-device/cloud intelligence.
-- 📂 **[odrive-linux](https://keithvassallo.com/projects/smart-dnd)** ([repo](https://github.com/keithvassallomt/odrive-linux)) - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
+- 📂 **[odrive-linux](https://keithvassallo.com/projects/odrive-linux)** ([repo](https://github.com/keithvassallomt/odrive-linux)) - A Linux frontend for the [odrive](https://odrive.com) Linux CLI and agent for cloud file sync.
 - 💬 **[Loft](https://loft.chat)** ([repo](https://github.com/keithvassallomt/loft)) - Desktop integration for WhatsApp, Messenger, Slack & Telegram on Linux — voice/video calling, tray icons, badge counts
 - 📦 **[FriendlyHub](https://friendlyhub.org)** ([repo](https://github.com/friendlyhub/friendlyhub)) - Flatpak app store & repository manager for Linux
 - 🤝 **[Friendly Manifesto](https://friendlymanifesto.org)** ([repo](https://github.com/keithvassallomt/friendly-manifesto)) - A set of principles for building friendly open-source communities
