@@ -21,6 +21,7 @@
 
 ## Featured Projects
 
+- 👩‍🦰 **[DigiMem](#)** ([repo](https://github.com/keithvassallomt/digikam-memories-sync)) - Synchronizes face tags on photos between your digiKam and Nextcloud Memories/recognize libraries. 
 - 🖼️ **[NC Media Provider](#)** ([repo](https://github.com/keithvassallomt/nc-media-provider)) - Android app for using NextCloud photos/videos in the system photo picker, or as a keyboard.  
 - 🗄️ **[Backtrack](#)** ([repo](https://github.com/keithvassallomt/backtrack)) - Linux backup utility based on Borg backup. Provides Time Machine-like functionality for Linux desktops.
 - 🌘 **[Smart DnD](https://keithvassallo.com/projects/smart-dnd-linux)** ([repo](https://github.com/keithvassallomt/smart-dnd-linux)) - Utility for scheduling Do not Disturb mode via fixed schedule or from calendar events. Supports various calendar backends and Linux desktops.
